@@ -46,4 +46,21 @@ ten-second check that confirms it, and the install method that cannot cause it. 
 
 ---
 
-Nairobi, Kenya · Reach me by opening an issue on any repository here.
+#### Work with me
+
+I take paid work on the DeepSeek Harness. I sell to teams — the ones putting DSH into a real
+workflow, where a broken install costs a day and a plugin that ships badly costs trust.
+
+|  | What you get | From |
+|---|---|---|
+| **Plugin build** | A dual-face plugin — host routes and tools, plus a real UI mounted into the shell. Installed safely, with a rollback, version-pinned to your harness, and 14 days of fixes. | **$500** |
+| **Plugin audit** | A written report you can act on: verdict first, `file:line` findings against a pinned commit, the minimum guardrails, and an honest section on what the plugin does well. | **$250** |
+| **Profile rescue** | Diagnosis and recovery for a harness throwing `Cannot read properties of undefined (reading 'prepare')` after a plugin install — and an install method that cannot cause it, verified on a scratch profile. | **$150** |
+
+Each of those is work this page already shows: four published plugins and guides, a client half most
+authors never ship, and an install procedure I have recovered from a bricked profile **twice**.
+
+**Start here:** open an issue on any repository here — say which of the three you need and what your
+harness is running. I'll tell you honestly if it is not a job I should take.
+
+Nairobi, Kenya · USD rates; KSh and M-Pesa for clients in Kenya.

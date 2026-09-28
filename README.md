@@ -16,9 +16,14 @@ overlay. Covers the billed buckets, cache-hit rate, and the peak/off-peak rate b
 **[dsh-daily-progress-tab](https://github.com/samorachumbi/dsh-daily-progress-tab)** — a planner in its
 own browser tab. A venture board ranked by *money per day of build effort*, a pool of every undone task
 across all days so you can pick what to work on, per-project backlogs, a feedback loop that forces a
-verdict on shipped work, and **28 agent tools** so it can be driven by asking rather than typing. A
+verdict on shipped work, and **29 agent tools** so it can be driven by asking rather than typing. A
 fork of [omdsh-dev/dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress), with the
 upstream licence retained and the changes documented.
+
+**[dsh-app-launcher](https://github.com/samorachumbi/dsh-app-launcher)** — a draggable **Apps**
+pill in the shell: pick an app and its host-rendered page opens in **its own OS window**, so it can be
+dragged to a second screen and left there, with a liveness dot per row. It exists because a host-rendered
+page has no way in except a URL — and a bookmark that points at nothing looks exactly like a broken plugin.
 
 #### Writing & diagnostics
 
@@ -41,4 +46,4 @@ ten-second check that confirms it, and the install method that cannot cause it. 
 
 ---
 
-Nairobi, Kenya · samorachumbi@gmail.com
+Nairobi, Kenya · Reach me by opening an issue on any repository here.

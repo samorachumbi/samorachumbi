@@ -60,7 +60,13 @@ workflow, where a broken install costs a day and a plugin that ships badly costs
 Each of those is work this page already shows: five published plugins and guides, a client half most
 authors never ship, and an install procedure I have recovered from a bricked profile **twice**.
 
-**Start here:** open an issue on any repository here — say which of the three you need and what your
-harness is running. I'll tell you honestly if it is not a job I should take.
+**Start here:** email **[samora@itikia.co.ke](mailto:samora@itikia.co.ke?subject=DeepSeek%20Harness%20project)** —
+say which of the three you need and what your harness is running, in your own words. You do not need a
+GitHub account, and you do not need to know the terminology: describe what you are trying to get done.
+Answered within one business day, and a call is fine if you would rather talk.
+
+If you are a developer and the question is a reproducible bug in one of the repositories, an issue there is
+better — the fix ends up in that thread. Everything else is better as an email: it is private, it needs no
+account, and a public issue is a bad place for a contract question.
 
 Nairobi, Kenya · USD rates; KSh and M-Pesa for clients in Kenya.
